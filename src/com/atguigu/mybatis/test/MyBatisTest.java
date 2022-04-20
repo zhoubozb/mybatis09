@@ -76,6 +76,7 @@ public class MyBatisTest {
 		myBatisTest.test01();
         System.out.println("1");
 		System.out.println("test branch");
+		System.out.println("up ma");
 
 	}
 }
