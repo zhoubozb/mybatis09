@@ -78,6 +78,7 @@ public class MyBatisTest {
 		System.out.println("test branch");
 		System.out.println("up ma");
 		System.out.println("uo test");
+		System.out.println("uo master origin");
 
 	}
 }
