@@ -75,6 +75,7 @@ public class MyBatisTest {
 		MyBatisTest myBatisTest = new MyBatisTest();
 		myBatisTest.test01();
         System.out.println("1");
+		System.out.println("test branch");
 
 	}
 }
