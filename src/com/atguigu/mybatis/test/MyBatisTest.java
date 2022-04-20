@@ -74,6 +74,7 @@ public class MyBatisTest {
 	public static void main(String[] args) throws Exception{
 		MyBatisTest myBatisTest = new MyBatisTest();
 		myBatisTest.test01();
+        System.out.println("1");
 
 	}
 }
