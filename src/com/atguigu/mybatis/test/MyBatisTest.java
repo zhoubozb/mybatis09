@@ -79,6 +79,7 @@ public class MyBatisTest {
 		System.out.println("up ma");
 		System.out.println("uo test");
 		System.out.println("uo master origin");
+		System.out.println("uo zhoubo1 origin");
 
 	}
 }
